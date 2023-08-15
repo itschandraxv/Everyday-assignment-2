@@ -1,1 +1,1 @@
-# Everyday-assignment-2
+Highest Base of Random 50 Integers in c
